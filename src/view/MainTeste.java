@@ -2,7 +2,7 @@ package view;
 
 import br.edu.fateczl.rafaelgaldino.Pilha;
 
-public class Main {
+public class MainTeste {
 
 	public static void main(String[] args) {
 		Pilha p = new Pilha();
